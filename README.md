@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samirmaikap
-- 👀 I’m interested in Full Stack Flutter Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Flutter
+- 👀 I’m interested in Full Stack Flutter and React Development
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on Flutter and React
 - 📫 How to reach me: maikap.samir@gmail.com
 
 <!---
