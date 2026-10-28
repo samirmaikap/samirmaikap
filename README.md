@@ -13,7 +13,7 @@ For 9 years US founders have hired me to build their products end to end: data m
 
 #### Stack
 
-TypeScript · Next.js · React · Remix · Node.js · Flutter · React Native · PostgreSQL · Supabase (RLS, Edge Functions, pgvector) · AWS · Claude · Gemini · OpenAI · RAG · evals · MCP
+TypeScript · Python · Next.js · React · Remix · Node.js · Flutter · React Native · PostgreSQL · Supabase (RLS, Edge Functions, pgvector) · AWS · Claude · Gemini · OpenAI · RAG · evals · MCP
 
 #### How I work
 
